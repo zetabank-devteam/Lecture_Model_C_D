@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
+Lecture for Model C & D
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+We have combined the contents of model c and model d into one.
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+We have organized the contents related to operation separately so that you can practice yourself.
